@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/heleniushenri/NCDemoDevOps/_apis/build/status/Hiltsu.pipelines-java?branchName=master)](https://dev.azure.com/heleniushenri/NCDemoDevOps/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
